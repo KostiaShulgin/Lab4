@@ -1,0 +1,21 @@
+div{
+    display: inline;
+}
+div nav{
+    display: block;
+    text-align: center;
+}
+nav a{
+    font-family: 'Comfortaa', cursive;
+    font-size: 30px;
+    color: #524f4e;
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 50px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+}
+p {
+    float: right;
+}
+
